@@ -1,0 +1,6 @@
+[submodule "ring"]
+	path = ring
+	url = https://github.com/hatemogi/ring
+[submodule "compojure"]
+	path = compojure
+	url = https://github.com/weavejester/compojure.git
